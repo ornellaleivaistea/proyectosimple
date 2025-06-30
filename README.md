@@ -20,13 +20,11 @@ docker build -t proyectosimple-node .
 docker run -p 3000:3000 proyectosimple-node
 ```
 4. Ver la app funcionando
-Abrir el navegador y dirijirse a: 
-http://localhost:3000
-El siguiente mensaje debería de mostrarse:
-"¡Hola, te estoy saludando desde Docker + Node.js!"
+- Abrir el navegador y dirijirse a: http://localhost:3000
+    - El siguiente mensaje debería de mostrarse: "¡Hola, te estoy saludando desde Docker + Node.js!"
 
 ## Imagen base utilizada: 
-- node:18 
+- node: 18 
 
 ## Autora:
 - Ornella Soeldad Leiva Fioravanti *OrnellaLF/ornellaleivaistea*
