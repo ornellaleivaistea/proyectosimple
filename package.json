@@ -1,0 +1,11 @@
+{
+  "name": "proyectosimple",
+  "version": "1.0.0",
+  "description": "App Node.js simple para probar con Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ornella Soledad Leiva Fioravanti",
+  "license": "Just mine."
+}
